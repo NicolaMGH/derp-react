@@ -1,4 +1,4 @@
-ChattyApp
+DERP (Daily Events Random Planner)
 =====================
 
 A single page app that uses React, Websockets, Webpack and Babel for multi-user real-time updates. No database is involved in this app; the focus is on the client-side experience.
