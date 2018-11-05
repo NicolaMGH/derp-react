@@ -30,6 +30,7 @@ Tired of planning for what to do for the weekends? Arguing with your SO/friends 
 $ git clone https://github.com/NicolaMGH/derp-react.git
 $ cd into derp-react
 $ run npm install
+$ create a .env file using the .env.example file
 ```
 
 2. Clone the server repo and install all dependencies.
@@ -39,6 +40,7 @@ $ go to https://github.com/NicolaMGH/derp-api-server
 $ git clone https://github.com/NicolaMGH/derp-api-server.git
 $ cd into derp-api-server
 $ run bundle install
+$ create a .env file using the .env.example file
 ```
 
 3. Start and run the application:
