@@ -5,6 +5,18 @@ DERP (Daily Events Random Planner)
 
 Tired of planning for what to do for the weekends? Arguing with your SO/friends about where to go for dinner? Wonder what events to attend in your area? Look no further than the Daily Events Random Planner (DERP). DERP is a full-stack social web application that helps users plan their day(s) based on their location and provided filters. This can solve the simple social conflicts between individuals as well as creating a shared online experience and promoting offline social experience; while matching the increased pace of living of the modern society.
 
+## Tech Stack Used
+
+- React
+- Ruby on Rails
+- PostgreSQL
+
+### APIs Used
+
+- Google Maps API
+- International Showtimes API
+- Yelp Fusion API
+
 ## Contributors
 - Nicola Metallo - https://github.com/NicolaMGH/
 - Raymond Kwan - https://github.com/RayKayy
